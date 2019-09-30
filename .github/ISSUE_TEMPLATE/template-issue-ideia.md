@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### Descrição competa da ideia
+### Descrição completa da ideia
 
 ### Material de apoio
 
