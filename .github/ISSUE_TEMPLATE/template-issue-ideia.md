@@ -1,6 +1,6 @@
 ---
 name: TEMPLATE ISSUE IDEIA
-about: BREVE DESCRIÇÃO DA IDEIA
+about: Template de issue para envido de ideia
 title: ''
 labels: ideia
 assignees: ''
