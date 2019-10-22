@@ -31,6 +31,10 @@ Caso deseje incluir seu nome, basta enviar um pull request, informando
 - [Claudson Oliveira](http://github.com/cloudson)
 - [Diego Brocanelli](https://www.diegobrocanelli.com.br/)
 
+### Ideias que sairam do papel
+
+Nessa página podemos ver a lista de [ideias que saíram do papel](/ideias_realizadas.md) e tornaram-se projetos reais.
+
 ### Licença
 
 [MIT](https://github.com/Diego-Brocanelli/laboratorio-de-ideias/blob/master/LICENSE)
