@@ -1,5 +1,8 @@
 # Laboratório de  ideias
 
+<p align="center">
+	<img src="assets/gifs/idea-bulb.gif" width="250px" alt="linhas se desenhando, formando uma lâmpada">
+</p>
 Repositório destinado a conter ideias para projetos que podemos utilizar para estudos, aperfeiçoamento, ou aprendizado de novas tecnologias ou recursos.
 
 ### Qual o objetivo do repositório?
