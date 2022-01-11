@@ -1,15 +1,17 @@
-# setup
 name: GitHub Actions List Issues
+
 on:
   issues:
     types: [opened, edited, closed, deleted]
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - name: checkout
         uses: actions/checkout@v2
+
       - name: rewriteReadme
         uses: seed-of-apricot/issue-list-readme@v1.1.0
         with:
@@ -17,12 +19,14 @@ jobs:
           pattern: '<!-- issueTable -->'
           labels: 'idea'
           state: 'open'
+
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
         with:
           message: README.md has been re-written
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: push
         uses: ad-m/github-push-action@master
         with:
