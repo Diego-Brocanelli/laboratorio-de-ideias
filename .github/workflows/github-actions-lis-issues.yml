@@ -1,14 +1,19 @@
 # setup
+name: GitHub Actions List Issues
 on:
   issues:
     types: [opened, edited, closed, deleted]
-      steps:
-        - name: checkout
-          uses: actions/checkout@v2
-        - name: rewriteReadme
-          uses: seed-of-apricot/issue-list-readme@v1.1.0
-          with:
-            GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-            pattern: '<!-- issueTable -->'
-            labels: 'idea'
-            state: 'open'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: rewriteReadme
+        uses: seed-of-apricot/issue-list-readme@v1.1.0
+        with:
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          pattern: '<!-- issueTable -->'
+          labels: 'idea'
+          state: 'open'
