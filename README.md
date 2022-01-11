@@ -1,43 +1,48 @@
-# Laboratório de  ideias
+# Laboratório de  ideias
 
 <p align="center">
-	<img src="assets/gifs/idea-bulb.gif" width="250px" alt="linhas se desenhando, formando uma lâmpada">
+    <img src="assets/gifs/idea-bulb.gif" width="250px" alt="linhas se desenhando, formando uma lâmpada">
 </p>
-Repositório destinado a conter ideias para projetos que podemos utilizar para estudos, aperfeiçoamento, ou aprendizado de novas tecnologias ou recursos.
+Repositório destinado a conter ideias para projetos que podemos utilizar para estudos, aperfeiçoamento, ou aprendizado de novas tecnologias ou recursos.
 
-### Qual o objetivo do repositório?
+### Qual o objetivo do repositório?
 
-Centralizar ideias para auxiliar nos estudos e prática no desenvolvimento de software.
+Centralizar ideias para auxiliar nos estudos e prática no desenvolvimento de software.
 
-### A quem pertence a ideia?
+# Lista de ideias
 
-Após a inclusão da ideia, conceito e materiais auxiliares, é tido como aberta e de uso permitido a todos que desejaram, entretanto é mantido o nome da pessoa que trouxe a ideia, para que seja reconhecida.
+<!-- issueTable -->
+<!-- issueTable -->
 
-Para ideias que se assemelham com produtos de empresas conhecidas como, Instagram, Twitter, Facebook ou qualquer ideia que vá de encontro com redes sociais que são conhecidas é apenas para prática e estudo de tecnologia, e não na criação de cópias para serem lançadas no mercado.
+# A quem pertence a ideia?
 
-### Como colaborar?
+Após a inclusão da ideia, conceito e materiais auxiliares, é tido como aberta e de uso permitido a todos que desejaram, entretanto é mantido o nome da pessoa que trouxe a ideia, para que seja reconhecida.
 
-Para incluir sua ideia é simples, basta abrir uma issue e para facilitar esse processo temos disponível um template para auxiliar e agilizar o envio da ideia.
+Para ideias que se assemelham com produtos de empresas conhecidas como, Instagram, Twitter, Facebook ou qualquer ideia que vá de encontro com redes sociais que são conhecidas é apenas para prática e estudo de tecnologia, e não na criação de cópias para serem lançadas no mercado.
 
-### Ideias duplicadas ou de conceitos muitos próximos
+# Como colaborar?
 
-É recomendado que seja realizado pesquisa prévia na lista de issues para verificar se já não consta a ideia listada, caso positivo, recomendasse a colaboração enriquecendo ainda mais o conteúdo.
+Para incluir sua ideia é simples, basta abrir uma issue e para facilitar esse processo temos disponível um template para auxiliar e agilizar o envio da ideia.
 
-Caso seja detectado duplicidade, será notificado na issue demarcara e arquivada.
+# Ideias duplicadas ou de conceitos muitos próximos
 
-### Contribuidores
+É recomendado que seja realizado pesquisa prévia na lista de issues para verificar se já não consta a ideia listada, caso positivo, recomendasse a colaboração enriquecendo ainda mais o conteúdo.
 
-Abaixo segue lista com pessoas que colaboraram com ideias de projetos.
+Caso seja detectado duplicidade, será notificado na issue demarcara e arquivada.
 
-Caso deseje incluir seu nome, basta enviar um pull request, informando o link da issue e a inclusão do seu nome, mantendo ordem alfabética.
+# Contribuidores
+
+Abaixo segue lista com pessoas que colaboraram com ideias de projetos.
+
+Caso deseje incluir seu nome, basta enviar um pull request, informando o link da issue e a inclusão do seu nome, mantendo ordem alfabética.
 
 - [Claudson Oliveira](http://github.com/cloudson)
-- [Diego Brocanelli](https://www.diegobrocanelli.com.br/)
+- [Diego Brocanelli](https://www.diegobrocanelli.com.br/)
 
-### Ideias que saíram do papel
+# Ideias que saíram do papel
 
 Nessa página podemos ver a lista de [ideias que saíram do papel](/ideias_realizadas.md) e tornaram-se projetos reais.
 
-### Licença
+# Licença
 
 [MIT](https://github.com/Diego-Brocanelli/laboratorio-de-ideias/blob/master/LICENSE)
