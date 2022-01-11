@@ -1,5 +1,4 @@
 # setup
-name: GitHub Actions List Issues
 on:
   issues:
     types: [opened, edited, closed, deleted]
