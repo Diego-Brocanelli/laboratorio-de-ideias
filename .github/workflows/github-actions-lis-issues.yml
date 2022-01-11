@@ -2,7 +2,7 @@
 name: GitHub Actions List Issues
 on:
   issues:
-    types: [opened, edited, milestoned]
+    types: [opened, edited, closed, deleted]
       steps:
         - name: checkout
           uses: actions/checkout@v2
